@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/karan_09kr" target="blank"><img src="https://img.shields.io/twitter/follow/karan_09kr?logo=twitter&style=for-the-badge" alt="karan_09kr" /></a> </p>
 
-- 🌱 I’m currently learning **Java, SpringBoot, Kotlin, Jetpack Compose, Clean Architecture, Design Patterns, Android**
+- 🌱 I’m currently learning **Java, SpringBoot, Php, Laravel, Bootstrap, javascript, Android**
 
 - 💬 Ask me about **Kotlin , Android development, Web development, Java, SpringBoot**
 
